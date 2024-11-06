@@ -1,0 +1,147 @@
+name,course,req,course_floor_pref,pref_floor,day,time,class_size,split_authorized,assigned_professors
+Matemática Discreta,ADS,0,1,0,Segunda,19h00-20h40,40
+Laboratório de Hardware,ADS,1,1,1,Segunda,20h50-22h30,25
+Laboratório de Hardware,ADS,1,1,1,Segunda,20h50-22h30,25
+Eng. Software I,ADS,0,1,0,Segunda,19h00-22h30,40
+Inglês III,ADS,0,1,0,Segunda,19h00-20h40,25
+Economia e Finanças,ADS,0,1,0,Segunda,20h50-22h30,40
+Sociedade e Tecnologia,ADS,1,1,1,Segunda,19h00-20h40,30
+Inglês IV,ADS,0,1,0,Segunda,20h50-22h30,30
+Programação Linear,ADS,1,1,1,Segunda,19h00-22h30,30
+Gestão de Equipes,ADS,1,1,1,Segunda,19h00-20h40,30
+Laboratório de Engenharia de Software,ADS,1,1,1,Segunda,20h50-22h30,25
+Inglês I,ADS,0,1,0,Terça,19h00-20h40,20
+Matemática Discreta,ADS,0,1,0,Terça,20h50-22h30,40
+Linguagem de Programação,ADS,1,1,1,Terça,19h00-22h30,40
+Engenharia de Software II,ADS,1,1,1,Terça,19h00-22h30,40
+Gestão de Projetos,ADS,1,1,1,Terça,19h00-22h30,35
+Inglês V,ADS,0,1,0,Terça,19h00-20h40,30
+Segurança da Informação,ADS,1,1,1,Terça,20h50-22h30,30
+Empreendedorismo,ADS,1,1,1,Terça,19h00-20h40,30
+Inglês VI,ADS,0,1,0,Terça,20h50-22h30,30
+Arquitetura de Computadores,ADS,1,1,1,Quarta,19h00-22h30,40
+Inglês II,ADS,0,1,0,Quarta,19h00-20h40,20
+Contabilidade,ADS,0,1,0,Quarta,20h50-22h30,30
+Banco de Dados,ADS,1,1,1,Quarta,19h00-22h30,35
+Sistemas Operacionais I,ADS,1,1,1,Quarta,19h00-22h30,30
+Programação de Dispositivos Móveis,ADS,1,1,1,Quarta,19h00-22h30,30
+Ética,ADS,1,1,1,Quarta,19h00-20h40,30
+Laboratório de Engenharia de Software,ADS,1,1,1,Quarta,20h50-22h30,25
+Algoritmos,ADS,0,1,0,Quinta,19h00-20h40,40
+Algoritmos,ADS,1,1,1,Quinta,20h50-22h30,20
+Algoritmos,ADS,1,1,1,Quinta,20h50-22h30,20
+Comunicação e Expressão,ADS,0,1,0,Quinta,19h00-22h30,35
+Gestão e Governança de TI,ADS,1,1,1,Quinta,19h00-22h30,35
+Metodologia de Pesquisa Científico-Tecnológica,ADS,1,1,1,Quinta,19h00-20h40,30
+Interação Humano-Computador,ADS,1,1,1,Quinta,20h50-22h30,30
+Laboratório de Banco de Dados,ADS,1,1,1,Quinta,19h00-22h30,30
+Redes de Computadores,ADS,1,1,1,Quinta,20h50-22h30,25
+Programação em Microinformática,ADS,1,1,1,Sexta,19h00-22h30,20
+Programação em Microinformática,ADS,1,1,1,Sexta,19h00-22h30,20
+Cálculo I,ADS,0,1,0,Sexta,19h00-22h30,35
+Programação Orientada a Objetos,ADS,1,1,1,Sexta,19h00-22h30,35
+Proogramação WEB,ADS,1,1,1,Sexta,19h00-22h30,30
+Engenharia de Software III,ADS,1,1,1,Sexta,19h00-22h30,30
+Auditoria de Sistemas,ADS,1,1,1,Sexta,19h00-22h30,25
+"Sociedade, Tecnologia e Inovação",GE,0,2,2,Segunda,19h00-20h40,40
+Administração Geral,GE,1,2,0,Segunda,20h50-22h30,40
+Gestão Ambiental,GE,1,2,0,Segunda,19h00-20h40,35
+Economia,GE,0,2,2,Segunda,20h50-22h30,35
+Gestão de Marketing,GE,0,2,2,Segunda,19h00-22h30,35
+Planejamento de Marketing,GE,0,2,2,Segunda,20h50-22h30,35
+Gestão Financeira,GE,0,2,2,Segunda,20h50-22h30,35
+Análise de investimentos,GE,1,2,0,Segunda,20h50-22h30,30
+PTG I,GE,1,2,0,Segunda,20h50-22h30,30
+Sistemas internos de Gestão,GE,0,2,2,Segunda,19h00-22h30,30
+Informação Aplicada a Gestão,GE,1,2,0,Terça,19h00-20h40,20
+Informação Aplicada a Gestão,GE,1,2,0,Terça,19h00-20h40,20
+Contabilidade,GE,0,2,2,Terça,20h50-22h30,40
+Comportamento Organizacional,GE,0,2,2,Terça,19h00-22h30,35
+"Organização, Sistemas e Métodos - AAP",GE,0,2,2,Terça,17h20-19h00,35
+Gestão de Pessoas,GE,0,2,2,Terça,19h00-22h30,35
+Planejamento de Marketing - AAP,GE,0,2,2,Terça,17h20-19h00,35
+Planejamento de Marketing,GE,1,2,0,Terça,19h00-20h40,35
+Comunicação Empresarial Geral,GE,0,2,2,Terça,20h50-22h30,30
+Fundamentos de Gestão de Qualidade,GE,0,2,2,Terça,19h00-20h40,30
+Inglês V,GE,0,2,2,Terça,20h50-22h30,30
+Desenvolvimento de Negócios - AAP,GE,1,2,0,Terça,17h20-19h00,30
+Desenvolvimento de Negócios,GE,0,2,2,Terça,19h00-22h30,30
+Projeto Integrador I,GE,1,2,0,Quarta,17h20-19h00,40
+Matemática,GE,0,2,2,Quarta,19h00-20h40,40
+Administração Geral,GE,1,2,0,Quarta,20h50-22h30,40
+Sociologia das Organizações,GE,0,2,2,Quarta,19h00-20h40,35
+Estatística Aplicada a Gestão,GE,0,2,2,Quarta,20h50-22h30,35
+"Organização, Sistemas e Métodos - AAP",GE,0,2,2,Quarta,17h20-19h00,35
+"Organização, Sistemas e Métodos",GE,0,2,2,Quarta,19h00-22h30,35
+Planejamento de Marketing - AAP,GE,0,2,2,Quarta,17h20-19h00,35
+Gestão Financeira,GE,0,2,2,Quarta,19h00-20h40,35
+Inglês IV,GE,0,2,2,Quarta,20h50-22h30,35
+Gestão de Projetos Empresariais - AAP,GE,0,2,2,Quarta,17h20-19h00,30
+Gestão da Produção,GE,0,2,2,Quarta,19h00-20h40,30
+Análise de Investimentos,GE,1,2,0,Quarta,20h50-22h30,30
+Planejamento e Gestão Estratégica,GE,0,2,2,Quarta,19h00-22h30,30
+Inglês I,GE,0,2,2,Quinta,17h20-19h00,40
+Comunicação e Expressão,GE,0,2,2,Quinta,19h00-22h30,40
+Projeto Integrador II,GE,1,2,0,Quinta,17h20-19h00,35
+Estatística,GE,0,2,2,Quinta,19h00-20h40,35
+Inglês II,GE,0,2,2,Quinta,20h50-22h30,35
+Inglês III,GE,0,2,2,Quinta,19h00-20h40,35
+Matemática Financeira,GE,0,2,2,Quinta,20h50-22h30,35
+Logística,GE,0,2,2,Quinta,19h00-20h40,35
+Direito Empresarial,GE,0,2,2,Quinta,20h50-22h30,35
+Gestão de Projetos Empresariais - AAP,GE,0,2,2,Quinta,17h20-19h00,30
+Gestão da Produção,GE,0,2,2,Quinta,19h00-20h40,30
+Espanhol I,GE,0,2,2,Quinta,20h50-22h30,30
+Espanhol II,GE,0,2,2,Quinta,19h00-20h40,30
+Inglês VI,GE,0,2,2,Quinta,20h50-22h30,30
+Projeto Integrador I,GE,1,2,0,Sexta,17h20-19h00,40
+Matemática,GE,0,2,2,Sexta,19h00-20h40,40
+Projeto Integrador II,GE,1,2,0,Sexta,17h20-19h00,35
+Métodos para a Produção do Conhecimento,GE,1,2,0,Sexta,19h00-20h40,35
+Economia,GE,0,2,2,Sexta,20h50-22h30,35
+Sistemas de Informação,GE,1,2,0,Sexta,19h00-22h30,35
+Direito Empresarial,GE,0,2,2,Sexta,19h00-20h40,35
+Logística,GE,0,2,2,Sexta,20h50-22h30,30
+Gestão de Projetos Empresariais,GE,0,2,2,Sexta,19h00-22h30,30
+Negócios Internacionais,GE,0,2,2,Sexta,19h00-22h30,30
+Direito Público e Privado,COMEX,0,3,3,Segunda,19h00-20h40,40
+Matemática Aplicada,COMEX,0,3,3,Segunda,20h50-22h30,40
+Inglês III e IV,COMEX,0,3,3,Segunda,19h00-22h30,40
+Gestão Financeira,COMEX,0,3,3,Segunda,19h00-22h30,35
+Mercado Financeiro Internacional,COMEX,0,3,3,Segunda,19h00-22h30,35
+Regimes Aduaneiros Especiais,COMEX,0,3,3,Segunda,19h00-20h40,30
+Espanhol III,COMEX,0,3,3,Segunda,20h50-22h30,30
+Espanhol IV,COMEX,0,3,3,Segunda,19h00-20h40,30
+Marketing Internacional,COMEX,1,3,0,Segunda,20h50-22h30,30
+Comércio Exterior,COMEX,0,3,3,Terça,19h00-22h30,40
+Sistemas de Informações Contábeis,COMEX,0,3,3,Terça,19h00-22h30,40
+Logística Aplicada,COMEX,1,3,0,Terça,19h00-22h30,35
+Inglês VII e VIII,COMEX,0,3,3,Terça,19h00-22h30,35
+Teoria e Prática Cambial,COMEX,0,3,3,Terça,19h00-22h30,30
+Gestão e Estratégia Internacional,COMEX,0,3,3,Terça,19h00-22h30,30
+Inglês I e II,COMEX,0,3,3,Quarta,19h00-22h30,40
+Política Comercial Externa,COMEX,0,3,3,Quarta,19h00-20h40,40
+Projeto em Comércio Exterior I,COMEX,0,3,3,Quarta,20h50-22h30,40
+Marketing Aplicado a Comércio Exterior,COMEX,0,3,3,Quarta,19h00-22h30,35
+Sistemática do Comércio Exterior,COMEX,0,3,3,Quarta,19h00-22h30,35
+Inglês IX e X,COMEX,0,3,3,Quarta,19h00-22h30,30
+Negócios Internacionais,COMEX,0,3,3,Quarta,19h00-20h40,30
+Marketing Internacional,COMEX,0,3,3,Quarta,20h50-22h30,30
+Métodos para a Produção de Conhecimento,COMEX,0,3,3,Quinta,19h00-20h40,40
+Administração Geral,COMEX,1,3,0,Quinta,20h50-22h30,40
+Direito internacional,COMEX,0,3,3,Quinta,19h00-20h40,40
+Economia,COMEX,0,3,3,Quinta,20h50-22h30,40
+Economia Internacional,COMEX,0,3,3,Quinta,19h00-22h30,35
+Logística Internacional,COMEX,0,3,3,Quinta,19h00-22h30,35
+Gestão de Custos e Tributos,COMEX,0,3,3,Quinta,19h00-22h30,30
+Inglês XI,COMEX,0,3,3,Quinta,19h00-20h40,30
+Negócios Internacionais,COMEX,0,3,3,Quinta,20h50-22h30,30
+Administração Geral,COMEX,1,3,0,Sexta,19h00-20h40,40
+Direito Público e Privado,COMEX,0,3,3,Sexta,19h00-20h40,40
+Economia,COMEX,0,3,3,Sexta,19h00-20h40,40
+Estatística Aplicada,COMEX,0,3,3,Sexta,19h00-20h40,40
+Inglês V e VI,COMEX,0,3,3,Sexta,19h00-22h30,35
+Espanhol II,COMEX,0,3,3,Sexta,19h00-20h40,35
+Projeto em Comércio Exterior III,COMEX,1,3,0,Sexta,20h50-22h30,35
+Gestão de Pessoas no Comércio Exterior,COMEX,0,3,3,Sexta,19h00-22h30,30
+Modais de Transporte e Seguro de Carga,COMEX,0,3,3,Sexta,19h00-22h30,30

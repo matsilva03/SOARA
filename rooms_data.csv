@@ -1,0 +1,25 @@
+name,type,floor,capacity,is_blocked
+LAB 1,lab,1,35,0
+LAB 3,lab,1,35,0
+LAB 4,lab,1,35,0
+LAB 5,lab,1,35,0
+LAB 6,lab,1,35,0
+LAB 7,lab,1,35,0
+LAB 8,lab,1,35,0
+LAB 10,lab,1,40,0
+LAB 11,lab,1,40,0
+LAB 12,lab,1,40,0
+LAB 13,lab,1,40,0
+SALA 4,sala,2,50,0
+SALA 5,sala,2,50,0
+SALA 6,sala,2,50,0
+SALA 7,sala,2,50,0
+SALA 8,sala,2,50,0
+SALA 9,sala,2,50,0
+SALA 10,sala,3,50,0
+SALA 11,sala,3,50,0
+SALA 12,sala,3,50,0
+SALA 13,sala,3,50,0
+SALA 14,sala,3,50,0
+SALA 15,sala,3,50,0
+MINIAUDITÓRIO I,sala,4,80,0
